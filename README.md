@@ -28,9 +28,9 @@
 | **Databases & Scripting** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
-### GitHub Overview
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://deno-github-readme-stats.deno.dev/api?username=serafim2011&show_icons=true&theme=tokyonight&hide_border=true" alt="Serafim's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
