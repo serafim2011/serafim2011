@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm Serafim! 
+# Hi there, I'm Serafim! 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevOps_%2F_Cloud_Infrastructure-blue?style=for-the-badge" />
@@ -8,15 +8,15 @@
 
 ---
 
-### 🚀 Overview
-- 🛠️ **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
-- ⚡ Experienced in **Multi-stage Docker packaging, reverse proxy hardening (Nginx, DDoS protection, SSL)** and automated **CI/CD pipelines with auto-rollback mechanisms**.
-- 📊 Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
-- 🎯 Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
+### Overview
+-  **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
+-  Experienced in **Multi-stage Docker packaging, reverse proxy hardening (Nginx, DDoS protection, SSL)** and automated **CI/CD pipelines with auto-rollback mechanisms**.
+-  Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
+-  Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -29,14 +29,9 @@
 
 ---
 
-### 📈 GitHub Overview
+### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serafim2011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Serafim's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serafim2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serafim2011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Serafim's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
----
-
-### 📬 Get in touch
-- **Telegram:** [@serafimDevOps](https://t.me/serafimDevOps)
