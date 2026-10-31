@@ -32,6 +32,8 @@
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serafim2011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Serafim's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serafim2011&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" width="60%" />
 </p>
