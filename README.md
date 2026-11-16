@@ -1,37 +1,33 @@
-# Hi there, I'm Serafim! 
+# Hi there, I'm Serafim!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-DevOps_%2F_Cloud_Infrastructure-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-High_Availability_%26_Automation-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open_for_Work-2ea44f?style=for-the-badge" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
----
 
 ### Overview
--  **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
--  Experienced in **Multi-stage Docker packaging, reverse proxy hardening (Nginx, DDoS protection, SSL)** and automated **CI/CD pipelines with auto-rollback mechanisms**.
--  Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
--  Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
+- **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
+- Experienced in **Multi-stage Docker packaging, reverse proxy hardening (Nginx, DDoS protection, SSL)** and automated **CI/CD pipelines with auto-rollback mechanisms**.
+- Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
+- Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
 
----
 
 ### Tech Stack & Tools
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **CI / CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Web Servers & Proxies** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-22B573?style=flat-square&logo=caddy&logoColor=white) ![Certbot](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white) |
-| **Observability & Metrics** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Containers & Orchestration** | ![Docker](https://shields.io) ![Docker Compose](https://shields.io) |
+| **CI / CD** | ![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) |
+| **Web Servers & Proxies** | ![Nginx](https://shields.io) ![Caddy](https://shields.io) ![Certbot](https://shields.io) |
+| **Observability & Metrics** | ![Prometheus](https://shields.io) ![Grafana](https://shields.io) |
 | **Operating Systems & IaC** | ![Linux](https://shields.io) ![Bash](https://shields.io) ![Ansible](https://shields.io) ![Terraform](https://shields.io) |
-square&logo=gnubash&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Databases & Scripting** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databases & Scripting** | ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Python](https://shields.io) |
 
----
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=serafim2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
+  <img src="https://demolab.com" alt="GitHub Streak" width="55%" />
 </p>
