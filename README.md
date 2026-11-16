@@ -6,6 +6,7 @@
   <img src="https://shields.io" />
 </p>
 
+---
 
 ### Overview
 - **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
@@ -13,18 +14,68 @@
 - Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
 - Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
 
+---
 
 ### Tech Stack & Tools
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Containers & Orchestration** | ![Docker](https://shields.io) ![Docker Compose](https://shields.io) |
-| **CI / CD** | ![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) |
-| **Web Servers & Proxies** | ![Nginx](https://shields.io) ![Caddy](https://shields.io) ![Certbot](https://shields.io) |
-| **Observability & Metrics** | ![Prometheus](https://shields.io) ![Grafana](https://shields.io) |
-| **Operating Systems & IaC** | ![Linux](https://shields.io) ![Bash](https://shields.io) ![Ansible](https://shields.io) ![Terraform](https://shields.io) |
-| **Databases & Scripting** | ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Python](https://shields.io) |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Domain</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Containers & Orchestration</b></td>
+      <td>
+        <img src="https://shields.io" alt="Docker" />
+        <img src="https://shields.io" alt="Docker Compose" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>CI / CD</b></td>
+      <td>
+        <img src="https://shields.io" alt="GitHub Actions" />
+        <img src="https://shields.io" alt="GitLab CI" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Web Servers & Proxies</b></td>
+      <td>
+        <img src="https://shields.io" alt="Nginx" />
+        <img src="https://shields.io" alt="Caddy" />
+        <img src="https://shields.io" alt="Certbot" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Observability & Metrics</b></td>
+      <td>
+        <img src="https://shields.io" alt="Prometheus" />
+        <img src="https://shields.io" alt="Grafana" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Operating Systems & IaC</b></td>
+      <td>
+        <img src="https://shields.io" alt="Linux" />
+        <img src="https://shields.io" alt="Bash" />
+        <img src="https://shields.io" alt="Ansible" />
+        <img src="https://shields.io" alt="Terraform" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases & Scripting</b></td>
+      <td>
+        <img src="https://shields.io" alt="PostgreSQL" />
+        <img src="https://shields.io" alt="Redis" />
+        <img src="https://shields.io" alt="Python" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+---
 
 ### GitHub Activity
 
