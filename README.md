@@ -1,84 +1,34 @@
-# Hi there, I'm Serafim!
+# Hi there, I'm Serafim — DevOps & Cloud Infrastructure Engineer
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+`Linux` `Terraform` `Yandex Cloud` `Ansible` `Docker` `Nginx` `CI/CD` `Prometheus` `Grafana`
 
 ---
 
 ### Overview
-- **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure environments.
-- Experienced in **Multi-stage Docker packaging, reverse proxy hardening (Nginx, DDoS protection, SSL)** and automated **CI/CD pipelines with auto-rollback mechanisms**.
-- Designing production-grade **Observability stacks** (Prometheus, PromQL, Alertmanager, Grafana).
-- Constantly expanding into **Cloud Architecture & Orchestration** (Terraform, Kubernetes).
+
+- **DevOps & Cloud Infrastructure Engineer** focused on building resilient, automated, and secure production environments.
+- Experienced in **Cloud IaC (Terraform + Yandex Cloud)**, **Multi-stage Docker** packaging, **Nginx** reverse proxy hardening (HTTP/2, SSL/TLS, DDoS protection), and automated **CI/CD** pipelines.
+- Designing production-grade **Observability & Alerting stacks** (Prometheus, PromQL, Grafana, Node Exporter, cAdvisor, Alertmanager).
+- Automating server provisioning, security hardening (UFW, Fail2ban, SSH), and zero-downtime deployments via **Ansible** and **Bash**.
 
 ---
 
 ### Tech Stack & Tools
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Domain</th>
-      <th align="left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Containers & Orchestration</b></td>
-      <td>
-        <img src="https://shields.io" alt="Docker" />
-        <img src="https://shields.io" alt="Docker Compose" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>CI / CD</b></td>
-      <td>
-        <img src="https://shields.io" alt="GitHub Actions" />
-        <img src="https://shields.io" alt="GitLab CI" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Web Servers & Proxies</b></td>
-      <td>
-        <img src="https://shields.io" alt="Nginx" />
-        <img src="https://shields.io" alt="Caddy" />
-        <img src="https://shields.io" alt="Certbot" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Observability & Metrics</b></td>
-      <td>
-        <img src="https://shields.io" alt="Prometheus" />
-        <img src="https://shields.io" alt="Grafana" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Operating Systems & IaC</b></td>
-      <td>
-        <img src="https://shields.io" alt="Linux" />
-        <img src="https://shields.io" alt="Bash" />
-        <img src="https://shields.io" alt="Ansible" />
-        <img src="https://shields.io" alt="Terraform" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Databases & Scripting</b></td>
-      <td>
-        <img src="https://shields.io" alt="PostgreSQL" />
-        <img src="https://shields.io" alt="Redis" />
-        <img src="https://shields.io" alt="Python" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | `Terraform` `Yandex Cloud` `VPC` `Managed PostgreSQL` `Object Storage (S3)` |
+| **Configuration & OS** | `Ansible` `Linux (Ubuntu/Debian)` `Bash Scripting` `Systemd` `Cron` |
+| **Containers & Orchestration** | `Docker` `Docker Compose` `Kubernetes` |
+| **CI / CD Automation** | `GitHub Actions` `GitLab CI` |
+| **Web Servers & Security** | `Nginx` `Caddy` `Certbot (Let's Encrypt)` `UFW` `Fail2ban` |
+| **Observability & Metrics** | `Prometheus` `PromQL` `Grafana` `Alertmanager` `Node Exporter` `cAdvisor` |
+| **Databases & Languages** | `PostgreSQL` `Redis` `Python` `C++` |
 
 ---
 
-### GitHub Activity
+### Featured Architecture & Production Templates
 
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" width="55%" />
-</p>
+- **infra-production-template** — Full production infrastructure in Yandex Cloud (Terraform Middle IaC + automated Ansible server hardening + Nginx SSL + PostgreSQL backup rotation).
+- **monitoring-box** — Turnkey observability stack in Docker Compose (Prometheus, Grafana, Node Exporter, cAdvisor, and Telegram alerting rules).
+- **app-cicd-k8s-demo** — Hardened Multi-stage Docker service with automated CI/CD pipeline and Kubernetes manifests.
